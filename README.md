@@ -1,0 +1,2 @@
+# Natural-disasters-intensity-analysis-and-classification-using-AI
+This project focuses on leveraging Artificial Intelligence (AI) to analyze and classify the intensity of natural disasters such as earthquakes, floods, cyclones, and wildfires. Traditional disaster monitoring systems often face challenges in predicting disaster severity in real time, which can lead to delayed responses and increased damage.
